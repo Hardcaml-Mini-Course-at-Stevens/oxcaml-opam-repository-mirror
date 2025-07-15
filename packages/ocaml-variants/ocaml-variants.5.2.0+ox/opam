@@ -92,9 +92,9 @@ extra-source "init-menhir.tar.gz" {
 }
 url {
   src:
-    "https://github.com/oxcaml/oxcaml/archive/3ce2c8cedbff979a4603387a99d1654f691dfb1d.tar.gz"
+    "https://github.com/oxcaml/oxcaml/archive/f74e02025e37931e048296af81134a1e10ec79c1.tar.gz"
   checksum:
-    "sha256=b90b872af2d12e8c6462f2c18d48dc090cf1e65ac222701bfeaea949944f3f8c"
+    "sha256=6d5cbccbfa453228f57a53f7aff226932c7bcf22c234bcbc51e920d3a5faa14b"
 }
 patches: ["ignore-opam.patch"]
 extra-files: [
